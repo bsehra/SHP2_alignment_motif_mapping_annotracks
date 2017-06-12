@@ -3,7 +3,7 @@
 #Created by Bhupinder Sehra
 #Updated 1/10/17
 
-EOF
+<<EOF
 This program will take the text file output (copied and pasted from the HTML page output) of a Dialign-Chaos multiple sequence alignment and produce an annotation file compatible wth TAIR Gbrowse
 Command line arguments: 
 'gene' = AT locus ID of gene in Arabidopsis thaliana
@@ -14,8 +14,7 @@ Command line arguments:
 'num_species_aligned' = number of species or sequences aligned 
 'align_type' = 'us' for reference sequence that is on positive strand; 'ds' for reference sequence on the negative strand. 
 'direction' = 'f' forward or 'r' reverse
-
-<<EOF
+EOF
 
 
 gene=$1

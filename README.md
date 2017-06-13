@@ -1,6 +1,6 @@
 # SHP2_alignment_motif_mapping_annotracks
 
-This repository contains Python scripts that convert Dialign-Chaos[1] multiple sequence alignment output, and PatMan[2] mapping output to annotation tracks that are compatible with the GBrowse tool available on The Arabidopsis Information Resource (TAIR) for the TAIR10 version of the Arabidopsis thaliana genome.
+This repository contains Python scripts that convert Dialign-Chaos[1] multiple sequence alignment output, and PatMan[2] mapping output to annotation tracks that are compatible with the GBrowse tool available on The Arabidopsis Information Resource (TAIR) for the TAIR10 version of the Arabidopsis thaliana genome. This repository includes the Dialign output used in Sehra and Franks (2017) as well as the annotation track for SHP2. 
 
 Ref:
 
